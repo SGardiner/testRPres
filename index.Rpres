@@ -3,6 +3,8 @@ index
 author: Sam Gardiner    
 date: 08/06/2016
 autosize: true
+transition: zoom
+transition-speed: slow
 
 First Slide
 ========================================================
